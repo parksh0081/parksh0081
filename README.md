@@ -21,8 +21,8 @@ Java 기반의 백엔드와 프론트엔드까지 아우르며, 사용자 경험
 ## 🚀 Skills
 - **Backend:** Java, Spring Boot, JPA, REST API  
 - **Frontend:** HTML5, CSS3, JavaScript, Thymeleaf  
-- **Database:** Oracle, MySQL  
-- **Tools:** Git, GitHub, Eclipse, STS, Postman  
+- **Database:** Oracle  
+- **Tools:** Git, GitHub, Eclipse, STS  
 - **Others:** Web Crawling, Ajax, Responsive Web Design
 
 ## 📂 Projects
